@@ -103,7 +103,7 @@
   },
   "resolutions": {
     "moment": "2.19.3"
-  }
+  },
   "files": [
     "lib"
   ],
